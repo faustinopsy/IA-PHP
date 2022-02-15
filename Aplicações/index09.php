@@ -31,12 +31,12 @@ require_once __DIR__ . '/php/action05.php';
 	   <br>
 	   <div class="container">
 	   	 <img src="img/php-ml-logo.png" width="5%" style="float: right;">
-	     <h2>Inteligência Artificial - BTC</h2>
+	     <h2>IA Prever- BTC</h2>
 	     <br>
 	     <form action="index09.php" method="POST">
 		   <input class="form-control" type="number" name="dias" placeholder="dias a frente" min="1" max="200">
 		   <br>
-		   <button type="submit" class="btn btn-lg btn-primary">ENVIAR</button>
+		   <button type="submit" class="btn btn-lg btn-primary">Prever</button>
 	     </form>
 
 	     <center>
